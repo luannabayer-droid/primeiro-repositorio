@@ -1,6 +1,6 @@
 body{
     background-color: blueviolet;
-    color:rgb(0, 157, 255)
+    color:rgb(11, 11, 11)
 }
 
 h1 {
@@ -8,6 +8,6 @@ h1 {
 }
 
 p {
-    color:rgb(234, 16, 230);
+    color:antiquewhite
     font-size: 16px;
 }
